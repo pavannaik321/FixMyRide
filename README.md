@@ -62,11 +62,9 @@ Welcome to the Vehicle Rescue App, a location-based mobile application designed 
 
 ## Contributing
 
-We welcome contributions! If you'd like to enhance the Vehicle Rescue App, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions! If you'd like to enhance the Vehicle Rescue App.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
